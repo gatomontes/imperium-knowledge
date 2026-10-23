@@ -43,3 +43,7 @@ This review preserves historical findings as test candidates, not claims about c
 - [Persona → Profile → manifestation](research/agent-artifact-lifecycle.md) — historical Foundry, Senate, Garrison, Laboratorium and Conscription gates; pre-admission examination exception, exact-version authority boundaries, and MWS disposition.
 
 Classification: historical design specifications, not evidence that all transitions were operationally implemented.
+
+## Campaign 005 — Authority, evidence and execution
+
+- [Authority, evidence and execution boundaries](research/authority-evidence-execution.md) — historical explicit authority and replay principles, risk-driven negative cases, and phased MWS adoption.

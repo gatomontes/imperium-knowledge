@@ -31,3 +31,9 @@ This is **an initial pass**, not a completed audit. Still review all Office mech
 - [Bounded execution case](lessons/bounded-execution-case.md) — PR #5 reported live effect and unresolved containment blocker.
 
 Historical GitHub activity was inspected at the level of branch/PR inventory plus selected document contents and PR #5. Further diff-level and review-comment work remains; this is **not** a complete forensic audit.
+
+## Campaign 003 — Decision provenance and supersession
+
+- [Decision provenance and supersession](research/decision-provenance-and-supersession.md) — constitutional reset lineage, immutable Profile contract, and review-derived negative cases from Symfony PR #5.
+
+This review preserves historical findings as test candidates, not claims about current deployed behavior or mandatory MWS architecture. The latest Symfony execution code and historical review-thread dispositions still require further verification.

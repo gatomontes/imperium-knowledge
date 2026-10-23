@@ -37,3 +37,9 @@ Historical GitHub activity was inspected at the level of branch/PR inventory plu
 - [Decision provenance and supersession](research/decision-provenance-and-supersession.md) — constitutional reset lineage, immutable Profile contract, and review-derived negative cases from Symfony PR #5.
 
 This review preserves historical findings as test candidates, not claims about current deployed behavior or mandatory MWS architecture. The latest Symfony execution code and historical review-thread dispositions still require further verification.
+
+## Campaign 004 — Agent artifact lifecycle
+
+- [Persona → Profile → manifestation](research/agent-artifact-lifecycle.md) — historical Foundry, Senate, Garrison, Laboratorium and Conscription gates; pre-admission examination exception, exact-version authority boundaries, and MWS disposition.
+
+Classification: historical design specifications, not evidence that all transitions were operationally implemented.

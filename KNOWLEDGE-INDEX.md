@@ -47,3 +47,7 @@ Classification: historical design specifications, not evidence that all transiti
 ## Campaign 005 — Authority, evidence and execution
 
 - [Authority, evidence and execution boundaries](research/authority-evidence-execution.md) — historical explicit authority and replay principles, risk-driven negative cases, and phased MWS adoption.
+
+## Campaign 006 — Symfony MWS engineering lessons
+
+- [Symfony MWS vertical slice](lessons/symfony-mws-vertical-slice.md) — documented historical behavior, transferable engineering lessons, and proposed two-agent UI acceptance tests.

@@ -22,3 +22,12 @@
 ## Remaining extraction
 
 This is **an initial pass**, not a completed audit. Still review all Office mechanics, Seat and Profile texts, remaining bootstrap/recovery contracts, Symfony application source and tests, Git branches, pull-request decisions and historical commits. In particular, branch and PR history may contain knowledge no longer represented on `main`. Track decisions that were superseded instead of silently elevating their old wording.
+
+## Campaign 002 — History and mechanisms
+
+- [Bootstrap and forward recovery](research/bootstrap-and-recovery.md) — theoretical manifest, state machine, replay and recovery designs.
+- [Office mechanics inventory](research/office-mechanics-inventory.md) — ten historical Offices and mechanical/cognitive separation.
+- [Repository history](research/repository-history.md) — supersession map, major PRs and branch caveats.
+- [Bounded execution case](lessons/bounded-execution-case.md) — PR #5 reported live effect and unresolved containment blocker.
+
+Historical GitHub activity was inspected at the level of branch/PR inventory plus selected document contents and PR #5. Further diff-level and review-comment work remains; this is **not** a complete forensic audit.

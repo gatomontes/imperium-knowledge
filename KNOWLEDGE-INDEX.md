@@ -51,3 +51,7 @@ Classification: historical design specifications, not evidence that all transiti
 ## Campaign 006 — Symfony MWS engineering lessons
 
 - [Symfony MWS vertical slice](lessons/symfony-mws-vertical-slice.md) — documented historical behavior, transferable engineering lessons, and proposed two-agent UI acceptance tests.
+
+## Campaign 007 — Historical gaps and consolidation
+
+- [Historical gap register](research/historical-gap-register.md) — remaining archival evidence, review-derived risk cases, and a proposed threshold for beginning the separate MWS implementation.

@@ -1,6 +1,6 @@
 # Campaign 005 — Authority, evidence and execution boundaries
 
-**Status:** historical doctrine extraction from `imperium-agentica-v02/main`, 2026-10-23. This document is **not** a claim that the contracts were implemented, tested, or deployed.
+**Evidence classification (2026-10-23):** Sections *Authority is not capability*, *Evidence is not disposition*, and *Deterministic boundaries* summarize **historical theoretical doctrine** from `imperium-agentica-v02/main`; they are not implementation or test claims. The *Failure modes* table is a **cross-source analytical synthesis**, combining those theoretical principles with **historical code-review observations** from Symfony PR #5 (not assertions about its latest code). *Practical MWS adoption sequence* and its guiding rule are **current project recommendations**, not enacted historical doctrine. *Open questions* identifies unverified work. No section establishes deployed behavior.
 
 ## Authority is not capability
 
